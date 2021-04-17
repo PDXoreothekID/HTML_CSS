@@ -1,0 +1,14 @@
+p{
+	color: blue;
+	background-color: red;
+	font-size: large;
+	text-align: center;
+}
+p1{
+	text-shadow: 2px 2px #00ff00;
+	text-align: right;
+}
+p2{
+	color: red;
+	background-color: blue;
+}
