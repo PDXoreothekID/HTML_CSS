@@ -36,7 +36,7 @@ h1 {
     font-size: 30px;
     text-transform: uppercase;
     text-align: center;
-    color: #e91c1c;
+    color: #1dff00;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
 }
 
@@ -45,14 +45,14 @@ h1:after { /*This is the underline*/
     content: "";
     height: 2px;
     width: 150px;
-    background: #e91c1c;
+    background: #1dff00;
     margin: 5px auto 40px;
     box-shadow: 5px 2px 3px rgba(0,0,0,0.5);
 }
 
 h2 {
     line-height: 50px;
-    color: #e91c1c;
+    color: #1dff00;
 }
 
 h3 {
@@ -168,7 +168,7 @@ HOME SECTION STYLES
 .head-main {
     text-shadow: 2px 4px 5px rgba(0,0,0,0.9);
     font-variant: small-caps;
-    color: #fff;
+    color: #1dff00;
     letter-spacing: 5pt;
     word-spacing: 21pt;
     font-size: 4.5em;
