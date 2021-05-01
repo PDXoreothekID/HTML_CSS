@@ -1,10 +1,31 @@
-html {
+.body {
     font-family: 'Courier New', Courier, monospace;
+    margin-top: 55px;
 }
 
 h1 {
     color: #f6d556;
     text-align: center;
+}
+
+.navbar {
+   position: fixed;
+   top: 0;
+   z-index: 100;
+   background-color: #173f5f;
+   height: 3em;
+   width: 100%;
+   overflow: hidden;
+   display: block;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    float: left;
 }
 
 .home-container {

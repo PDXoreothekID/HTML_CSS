@@ -139,7 +139,7 @@ section {
     content: " ";
     /*top: 0;
     left: 0;*/
-    /*position: absolute; */ /*to the top edge of teh screen*/
+    /*position: absolute; */ /*to the top edge of the screen*/
     width: 100%;
     position: fixed;
     z-index: 100;
