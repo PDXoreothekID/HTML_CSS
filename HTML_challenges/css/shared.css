@@ -1,7 +1,5 @@
 html {
-    background-color: #20639b;
     font-family: 'Courier New', Courier, monospace;
-    color: #ed5538;
 }
 
 h1 {
@@ -9,38 +7,47 @@ h1 {
     text-align: center;
 }
 
-.container {
+.home-container {
     position: relative;
-    text-align: center;
 }
 
 .home-img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    width: 95%;
     border: 5px solid #173f5f;
     border-radius: 50px;
     filter: contrast(80%);
     z-index: 0;
 }
 
-
 .campus-lake {
     position: absolute;
     color: #f6d556;
     left: 10em;
-    bottom: 15em;
+    bottom: 25em;
     z-index: 4;
 }
 
+#about {
+    color: #000;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 
+h2 {
+    text-align: center;
+    padding-top: 2px;
+}
 
+p {
+    text-align: center;
+}
 
-
-
-
-
+#contact {
+    text-align: center;
+}
 
 
 
@@ -84,9 +91,6 @@ td {
     padding: 5px;
 }
 
-.center {
-    text-align: center;
-}
 
 .footer-center {
     text-align: center;
