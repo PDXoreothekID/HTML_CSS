@@ -49,31 +49,6 @@ p {
     text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 table, tr, th, td {
     border: 1px solid black;
     margin-top: 5px;
@@ -83,7 +58,8 @@ table, tr, th, td {
 }
 
 th {
-    background-color: green;
+    background-color: #173f5f;
+    color: white;
 }
 
 td {
