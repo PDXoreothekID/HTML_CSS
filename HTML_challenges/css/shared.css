@@ -8,16 +8,12 @@ h1 {
     text-align: center;
 }
 
-.container {
-
-}
-
 #navbar  {
     overflow: hidden;
     background-color: #173f5f;
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 50%;
     z-index: 100;
 }
 
@@ -51,18 +47,20 @@ li a:hover {
     background-color: #20639b;
 }
 
-
-
-.home-container {
-
+.container {
+    position: relative;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
-.home-container:hover .home-img {
+.container .vid {}
+
+.container:hover .home-img {
     opacity: 0.3;
 }
 
 
-.home-container:hover .middle {
+.container:hover .middle {
     opacity: 1;
 }
 
@@ -93,6 +91,13 @@ li a:hover {
     font-size: 16px;
     padding: 16px 32px;
     z-index: 3;
+}
+
+.vid {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    background-image: url(../img/palm-trees-zoom-meeting-background-design-template-17ecfbd7498f297698cd31ff241ac85e_screen.jpg);
 }
 
 #about {
