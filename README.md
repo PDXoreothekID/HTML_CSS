@@ -30,4 +30,4 @@ This is an example webpage for an academy. The page is stylized with CSS. This w
 
 
 ### Portfolio
-This is my portfolio webpage telling all about me and my technical experiences and training. 
+This is my portfolio webpage telling all about me and my technical experiences and training. Stylized with CSS this page contains a navbar transition, form, and much more.
