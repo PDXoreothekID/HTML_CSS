@@ -3,3 +3,16 @@ This is my repository for "HTML and CSS Projects". This will contain projects as
 
 - [Oreo's Car Auction](https://github.com/PDXoreothekID/HTML_CSS/tree/main/Oreo's_car_auction)
 - [Academy Cinemas](https://github.com/PDXoreothekID/HTML_CSS/tree/main/Academy_Cinemas)
+
+
+## Oreo's Car Auction
+
+
+
+
+
+
+
+
+
+## Academy Cinemas
