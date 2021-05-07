@@ -7,11 +7,11 @@ This is my repository for "HTML and CSS Projects". This will contain projects as
 - [Academy Cinemas](https://github.com/PDXoreothekID/HTML_CSS/tree/main/Academy_Cinemas)
 
 
-### Oreo's Car Auction
+### [Oreo's Car Auction](https://github.com/PDXoreothekID/HTML_CSS/tree/main/Oreo's_car_auction)
 This webpage is an example for an exclusive car auction. The webpage is stylized with CSS. The webpage contains a navbar, image containers, and a form. 
 
 
 
 
-### **Academy Cinemas**
+### [Academy Cinemas](https://github.com/PDXoreothekID/HTML_CSS/tree/main/Academy_Cinemas)
 This webpage is an example for a movie theater. The webpage is stylized using Bootstrap 4. This webpage contains several Bootstrap components: navbar, jumbotron, form, cards, and dropdowns. Just to name a few of the components being used. 
